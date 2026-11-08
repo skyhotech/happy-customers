@@ -1,0 +1,855 @@
+[
+  {
+    "id": "br-arani-a-b-c-big-bazaar-street",
+    "branchName": "Arani – A.B.C Big Bazaar Street",
+    "locality": "Arani",
+    "displayAddress": "எண்.204, A.B.C பிக் பஜார் ST, ஆரணி",
+    "displayAddressLines": [
+      "எண்.204, A.B.C பிக் பஜார்",
+      "ST, ஆரணி"
+    ],
+    "phone": "6383-941914",
+    "searchAddress": "arani a b c big bazaar street arani எண் 204 a b c பிக் பஜார் st ஆரணி 6383 941914 arani abc big bazaar street ஆரணி",
+    "aliases": [
+      "arani",
+      "abc",
+      "big bazaar street",
+      "ஆரணி"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-12"
+    ],
+    "sourceFiles": [
+      "12.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-arani-big-bazaar-road",
+    "branchName": "Arani – Big Bazaar Road",
+    "locality": "Arani",
+    "displayAddress": "எண். 21, பிக் பஜார் சாலை , ஆரணி",
+    "displayAddressLines": [
+      "எண். 21, பிக் பஜார் சாலை ,",
+      "ஆரணி"
+    ],
+    "phone": "8754750009",
+    "searchAddress": "arani big bazaar road arani எண் 21 பிக் பஜார் சாலை ஆரணி 8754750009 arani aarani big bazaar road ஆரணி",
+    "aliases": [
+      "arani",
+      "aarani",
+      "big bazaar road",
+      "ஆரணி"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-10"
+    ],
+    "sourceFiles": [
+      "10.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-arani-gandhi-road-opp-clock-tower",
+    "branchName": "Arani – Gandhi Road (Opp. Clock Tower)",
+    "locality": "Arani",
+    "displayAddress": "எண்.46d, காந்தி சாலை, (மணிகூண்டு எதிரில்) ஆரணி",
+    "displayAddressLines": [
+      "எண்.46d, காந்தி சாலை,",
+      "(மணிகூண்டு எதிரில்) ஆரணி"
+    ],
+    "phone": "9677857885",
+    "searchAddress": "arani gandhi road opp clock tower arani எண் 46d காந்தி சாலை மணிகூண்டு எதிரில் ஆரணி 9677857885 arani gandhi road manikoondu clock tower ஆரணி",
+    "aliases": [
+      "arani",
+      "gandhi road",
+      "manikoondu",
+      "clock tower",
+      "ஆரணி"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-11"
+    ],
+    "sourceFiles": [
+      "11.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-arcot-sandy-bazaar",
+    "branchName": "Arcot – Sandy Bazaar",
+    "locality": "Arcot",
+    "displayAddress": "எண். 86, சாண்டி பஜார், கலவை ரோடு, ஆற்காடு",
+    "displayAddressLines": [
+      "எண். 86, சாண்டி பஜார், கலவை",
+      "ரோடு, ஆற்காடு"
+    ],
+    "phone": "93613 73727",
+    "searchAddress": "arcot sandy bazaar arcot எண் 86 சாண்டி பஜார் கலவை ரோடு ஆற்காடு 93613 73727 arcot arkadu aarkadu sandy bazaar kalavai road ஆற்காடு",
+    "aliases": [
+      "arcot",
+      "arkadu",
+      "aarkadu",
+      "sandy bazaar",
+      "kalavai road",
+      "ஆற்காடு"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-9"
+    ],
+    "sourceFiles": [
+      "9.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-avalurpet-bazaar-street",
+    "branchName": "Avalurpet – Bazaar Street",
+    "locality": "Avalurpet",
+    "displayAddress": "எண்.7/142, பஜார் தெரு, அவலூர்பேட்டை.",
+    "displayAddressLines": [
+      "எண்.7/142, பஜார் தெரு,",
+      "அவலூர்பேட்டை."
+    ],
+    "phone": "8098530024",
+    "searchAddress": "avalurpet bazaar street avalurpet எண் 7 142 பஜார் தெரு அவலூர்பேட்டை 8098530024 avalurpet avalurpettai bazaar street அவலூர்பேட்டை",
+    "aliases": [
+      "avalurpet",
+      "avalurpettai",
+      "bazaar street",
+      "அவலூர்பேட்டை"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-13"
+    ],
+    "sourceFiles": [
+      "13.jpg",
+      "17.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-chengam-bangalore-main-road",
+    "branchName": "Chengam – Bangalore Main Road",
+    "locality": "Chengam",
+    "displayAddress": "எண். 949, பெங்களூர் மெயின் ரோடு, போலீஸ் ஸ்டேஷன் எதிரில், செங்கம்",
+    "displayAddressLines": [
+      "எண். 949, பெங்களூர் மெயின் ரோடு,",
+      "போலீஸ் ஸ்டேஷன் எதிரில், செங்கம்"
+    ],
+    "phone": "9659957095",
+    "searchAddress": "chengam bangalore main road chengam எண் 949 பெங்களூர் மெயின் ரோடு போலீஸ் ஸ்டேஷன் எதிரில் செங்கம் 9659957095 chengam bangalore main road police station செங்கம்",
+    "aliases": [
+      "chengam",
+      "bangalore main road",
+      "police station",
+      "செங்கம்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-14"
+    ],
+    "sourceFiles": [
+      "14.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-chetpet-vandavasi-road",
+    "branchName": "Chetpet – Vandavasi Road",
+    "locality": "Chetpet",
+    "displayAddress": "எண்.100, வந்தவாசி சாலை, சேத்பட்",
+    "displayAddressLines": [
+      "எண்.100, வந்தவாசி சாலை,",
+      "சேத்பட்"
+    ],
+    "phone": "9659211101",
+    "searchAddress": "chetpet vandavasi road chetpet எண் 100 வந்தவாசி சாலை சேத்பட் 9659211101 chetpet chethpet vandavasi road சேத்பட்",
+    "aliases": [
+      "chetpet",
+      "chethpet",
+      "vandavasi road",
+      "சேத்பட்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-15"
+    ],
+    "sourceFiles": [
+      "15.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-dharmapuri-mohammed-ali-road",
+    "branchName": "Dharmapuri – Mohammed Ali Road",
+    "locality": "Dharmapuri",
+    "displayAddress": "எண். 115&116, முனிசிபாலிட்டி வளாகம், முகமது அலி சாலை, தர்மபுரி",
+    "displayAddressLines": [
+      "எண். 115&116, முனிசிபாலிட்டி வளாகம்,",
+      "முகமது அலி சாலை, தர்மபுரி"
+    ],
+    "phone": "9080349183",
+    "searchAddress": "dharmapuri mohammed ali road dharmapuri எண் 115 116 முனிசிபாலிட்டி வளாகம் முகமது அலி சாலை தர்மபுரி 9080349183 dharmapuri municipality complex mohammed ali road தர்மபுரி",
+    "aliases": [
+      "dharmapuri",
+      "municipality complex",
+      "mohammed ali road",
+      "தர்மபுரி"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-16"
+    ],
+    "sourceFiles": [
+      "16.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-gudiyatham-katpadi-road",
+    "branchName": "Gudiyatham – Katpadi Road",
+    "locality": "Gudiyatham",
+    "displayAddress": "எண்.4/1, காட்பாடி சாலை, புதிய பேருந்து நிலையம் அருகில், குடியாத்தம்",
+    "displayAddressLines": [
+      "எண்.4/1, காட்பாடி சாலை, புதிய பேருந்து",
+      "நிலையம் அருகில், குடியாத்தம்"
+    ],
+    "phone": "7845082979",
+    "searchAddress": "gudiyatham katpadi road gudiyatham எண் 4 1 காட்பாடி சாலை புதிய பேருந்து நிலையம் அருகில் குடியாத்தம் 7845082979 gudiyatham gudiyattam katpadi road new bus stand குடியாத்தம்",
+    "aliases": [
+      "gudiyatham",
+      "gudiyattam",
+      "katpadi road",
+      "new bus stand",
+      "குடியாத்தம்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-18"
+    ],
+    "sourceFiles": [
+      "18.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-kannamangalam-new-bus-stand",
+    "branchName": "Kannamangalam – New Bus Stand",
+    "locality": "Kannamangalam",
+    "displayAddress": "எண் 89/5, புதிய பேருந்து நிலையம் அருகில், கண்ணமங்கலம்.",
+    "displayAddressLines": [
+      "எண் 89/5, புதிய பேருந்து நிலையம்",
+      "அருகில், கண்ணமங்கலம்."
+    ],
+    "phone": "84894 92300",
+    "searchAddress": "kannamangalam new bus stand kannamangalam எண் 89 5 புதிய பேருந்து நிலையம் அருகில் கண்ணமங்கலம் 84894 92300 kannamangalam new bus stand கண்ணமங்கலம்",
+    "aliases": [
+      "kannamangalam",
+      "new bus stand",
+      "கண்ணமங்கலம்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-19"
+    ],
+    "sourceFiles": [
+      "19.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-krishnagiri-bangalore-road",
+    "branchName": "Krishnagiri – Bangalore Road",
+    "locality": "Krishnagiri",
+    "displayAddress": "எண். 112 & 113, பெங்களூர் சாலை, கிருஷ்ணகிரி",
+    "displayAddressLines": [
+      "எண். 112 & 113, பெங்களூர்",
+      "சாலை, கிருஷ்ணகிரி"
+    ],
+    "phone": "87543 58736",
+    "searchAddress": "krishnagiri bangalore road krishnagiri எண் 112 113 பெங்களூர் சாலை கிருஷ்ணகிரி 87543 58736 krishnagiri bangalore road கிருஷ்ணகிரி",
+    "aliases": [
+      "krishnagiri",
+      "bangalore road",
+      "கிருஷ்ணகிரி"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-20"
+    ],
+    "sourceFiles": [
+      "20.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-muthukadai-mbt-road",
+    "branchName": "Muthukadai – MBT Road",
+    "locality": "Muthukadai",
+    "displayAddress": "என்:126 MBT சாலை முத்துக்கடை பேருந்து நிலையம் அருகில் முத்துக்கடை",
+    "displayAddressLines": [
+      "என்:126 MBT சாலை முத்துக்கடை",
+      "பேருந்து நிலையம் அருகில் முத்துக்கடை"
+    ],
+    "phone": "8667670649",
+    "searchAddress": "muthukadai mbt road muthukadai என் 126 mbt சாலை முத்துக்கடை பேருந்து நிலையம் அருகில் முத்துக்கடை 8667670649 muthukadai mbt road bus stand ranipet முத்துக்கடை",
+    "aliases": [
+      "muthukadai",
+      "mbt road",
+      "bus stand",
+      "ranipet",
+      "முத்துக்கடை"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-24"
+    ],
+    "sourceFiles": [
+      "24.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-pallikonda-gudiyatham-road",
+    "branchName": "Pallikonda – Gudiyatham Road",
+    "locality": "Pallikonda",
+    "displayAddress": "எண். 26A, குடியாத்தம் சாலை, பழைய தங்கமணி திரையரங்கம், பள்ளிகொண்டா",
+    "displayAddressLines": [
+      "எண். 26A, குடியாத்தம் சாலை, பழைய",
+      "தங்கமணி திரையரங்கம், பள்ளிகொண்டா"
+    ],
+    "phone": "95001 86099",
+    "searchAddress": "pallikonda gudiyatham road pallikonda எண் 26a குடியாத்தம் சாலை பழைய தங்கமணி திரையரங்கம் பள்ளிகொண்டா 95001 86099 pallikonda gudiyatham road thangamani theatre பள்ளிகொண்டா",
+    "aliases": [
+      "pallikonda",
+      "gudiyatham road",
+      "thangamani theatre",
+      "பள்ளிகொண்டா"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-40"
+    ],
+    "sourceFiles": [
+      "40.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-polur-railway-station-road",
+    "branchName": "Polur – Railway Station Road",
+    "locality": "Polur",
+    "displayAddress": "ரயில் நிலையம் சாலை, அருண் தியேட்டர் அருகில், போளூர்",
+    "displayAddressLines": [
+      "ரயில் நிலையம் சாலை, அருண்",
+      "தியேட்டர் அருகில், போளூர்"
+    ],
+    "phone": "93613 58553",
+    "searchAddress": "polur railway station road polur ரயில் நிலையம் சாலை அருண் தியேட்டர் அருகில் போளூர் 93613 58553 polur railway station road arun theatre போளூர்",
+    "aliases": [
+      "polur",
+      "railway station road",
+      "arun theatre",
+      "போளூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-21"
+    ],
+    "sourceFiles": [
+      "21.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-puducherry-anna-salai",
+    "branchName": "Puducherry – Anna Salai",
+    "locality": "Puducherry",
+    "displayAddress": "எண். 200/202 அண்ணாசாலை, புதுச்சேரி",
+    "displayAddressLines": [
+      "எண். 200/202",
+      "அண்ணாசாலை, புதுச்சேரி"
+    ],
+    "phone": "87788 29472",
+    "searchAddress": "puducherry anna salai puducherry எண் 200 202 அண்ணாசாலை புதுச்சேரி 87788 29472 puducherry pondicherry pondy anna salai புதுச்சேரி",
+    "aliases": [
+      "puducherry",
+      "pondicherry",
+      "pondy",
+      "anna salai",
+      "புதுச்சேரி"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-22"
+    ],
+    "sourceFiles": [
+      "22.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-ranipet-mbt-road-vimal-complex",
+    "branchName": "Ranipet – MBT Road (Vimal Complex)",
+    "locality": "Ranipet",
+    "displayAddress": "எண். 09, விமல் வணிக வளாகம், MBT சாலை, ராணிப்பேட்டை",
+    "displayAddressLines": [
+      "எண். 09, விமல் வணிக வளாகம்,",
+      "MBT சாலை, ராணிப்பேட்டை"
+    ],
+    "phone": "9025431811",
+    "searchAddress": "ranipet mbt road vimal complex ranipet எண் 09 விமல் வணிக வளாகம் mbt சாலை ராணிப்பேட்டை 9025431811 ranipet ranipettai mbt road vimal complex ராணிப்பேட்டை",
+    "aliases": [
+      "ranipet",
+      "ranipettai",
+      "mbt road",
+      "vimal complex",
+      "ராணிப்பேட்டை"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-23"
+    ],
+    "sourceFiles": [
+      "23.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-sholingur-walajah-road",
+    "branchName": "Sholingur – Walajah Road",
+    "locality": "Sholingur",
+    "displayAddress": "NO.6/1B. வாலாஜா சாலை, சோளிங்கர்",
+    "displayAddressLines": [
+      "NO.6/1B. வாலாஜா சாலை,",
+      "சோளிங்கர்"
+    ],
+    "phone": "9344799353",
+    "searchAddress": "sholingur walajah road sholingur no 6 1b வாலாஜா சாலை சோளிங்கர் 9344799353 sholingur sholinghur walajah road walaja road சோளிங்கர்",
+    "aliases": [
+      "sholingur",
+      "sholinghur",
+      "walajah road",
+      "walaja road",
+      "சோளிங்கர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-25"
+    ],
+    "sourceFiles": [
+      "25.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-tirupattur-krishnagiri-main-road",
+    "branchName": "Tirupattur – Krishnagiri Main Road",
+    "locality": "Tirupattur",
+    "displayAddress": "எண். 15, கிருஷ்ணகிரி மெயின் ரோடு, திருப்பத்தூர்",
+    "displayAddressLines": [
+      "எண். 15, கிருஷ்ணகிரி",
+      "மெயின் ரோடு, திருப்பத்தூர்"
+    ],
+    "phone": "82482 05223",
+    "searchAddress": "tirupattur krishnagiri main road tirupattur எண் 15 கிருஷ்ணகிரி மெயின் ரோடு திருப்பத்தூர் 82482 05223 tirupattur tirupathur krishnagiri main road திருப்பத்தூர்",
+    "aliases": [
+      "tirupattur",
+      "tirupathur",
+      "krishnagiri main road",
+      "திருப்பத்தூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-31"
+    ],
+    "sourceFiles": [
+      "31.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-tirupattur-palanisamy-mudaliar-road",
+    "branchName": "Tirupattur – Palanisamy Mudaliar Road",
+    "locality": "Tirupattur",
+    "displayAddress": "எண். 52, பழனிசாமி முதலியார் சாலை, திருப்பத்தூர்",
+    "displayAddressLines": [
+      "எண். 52, பழனிசாமி முதலியார்",
+      "சாலை, திருப்பத்தூர்"
+    ],
+    "phone": "87783 33903",
+    "searchAddress": "tirupattur palanisamy mudaliar road tirupattur எண் 52 பழனிசாமி முதலியார் சாலை திருப்பத்தூர் 87783 33903 tirupattur tirupathur palanisamy mudaliar road திருப்பத்தூர்",
+    "aliases": [
+      "tirupattur",
+      "tirupathur",
+      "palanisamy mudaliar road",
+      "திருப்பத்தூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-30"
+    ],
+    "sourceFiles": [
+      "30.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-tiruttani-mps-road-near-sbi",
+    "branchName": "Tiruttani – MPS Road (Near SBI)",
+    "locality": "Tiruttani",
+    "displayAddress": "NO.355, MPS சாலை, (SBI BANK) அருகில், திருத்தணி",
+    "displayAddressLines": [
+      "NO.355, MPS சாலை, (SBI BANK)",
+      "அருகில், திருத்தணி"
+    ],
+    "phone": "90434 51343",
+    "searchAddress": "tiruttani mps road near sbi tiruttani no 355 mps சாலை sbi bank அருகில் திருத்தணி 90434 51343 tiruttani thiruthani tiruthani mps road sbi திருத்தணி",
+    "aliases": [
+      "tiruttani",
+      "thiruthani",
+      "tiruthani",
+      "mps road",
+      "sbi",
+      "திருத்தணி"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-32"
+    ],
+    "sourceFiles": [
+      "32.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": "Phone number identical to 33.jpg (Uthiramerur) – confirm with store management."
+  },
+  {
+    "id": "br-tiruvannamalai-car-street-theradi-veedhi",
+    "branchName": "Tiruvannamalai – Car Street (Theradi Veedhi)",
+    "locality": "Tiruvannamalai",
+    "displayAddress": "எண்.160/2, கார் செயின்ட், (தேரடி வீதி), திருவண்ணாமலை",
+    "displayAddressLines": [
+      "எண்.160/2, கார் செயின்ட், (தேரடி",
+      "வீதி), திருவண்ணாமலை"
+    ],
+    "phone": "9025244200",
+    "searchAddress": "tiruvannamalai car street theradi veedhi tiruvannamalai எண் 160 2 கார் செயின்ட் தேரடி வீதி திருவண்ணாமலை 9025244200 tiruvannamalai thiruvannamalai car street theradi திருவண்ணாமலை",
+    "aliases": [
+      "tiruvannamalai",
+      "thiruvannamalai",
+      "car street",
+      "theradi",
+      "திருவண்ணாமலை"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-27"
+    ],
+    "sourceFiles": [
+      "27.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-tiruvannamalai-kosamada-street-opp-sbi",
+    "branchName": "Tiruvannamalai – Kosamada Street (Opp. SBI)",
+    "locality": "Tiruvannamalai",
+    "displayAddress": "எண்.31A கொசமட தெரு, எஸ்பிஐ எதிரில், திருவண்ணாமலை",
+    "displayAddressLines": [
+      "எண்.31A கொசமட தெரு, எஸ்பிஐ",
+      "எதிரில், திருவண்ணாமலை"
+    ],
+    "phone": "7904741512",
+    "searchAddress": "tiruvannamalai kosamada street opp sbi tiruvannamalai எண் 31a கொசமட தெரு எஸ்பிஐ எதிரில் திருவண்ணாமலை 7904741512 tiruvannamalai thiruvannamalai kosamada street sbi திருவண்ணாமலை",
+    "aliases": [
+      "tiruvannamalai",
+      "thiruvannamalai",
+      "kosamada street",
+      "sbi",
+      "திருவண்ணாமலை"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-28"
+    ],
+    "sourceFiles": [
+      "28.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-tiruvannamalai-polur-road-no-105-25",
+    "branchName": "Tiruvannamalai – Polur Road (No. 105/25)",
+    "locality": "Tiruvannamalai",
+    "displayAddress": "எண்.105/25, போளூர் சாலை,திருவண்ணாமலை",
+    "displayAddressLines": [
+      "எண்.105/25, போளூர்",
+      "சாலை,திருவண்ணாமலை"
+    ],
+    "phone": "8754905008",
+    "searchAddress": "tiruvannamalai polur road no 105 25 tiruvannamalai எண் 105 25 போளூர் சாலை திருவண்ணாமலை 8754905008 tiruvannamalai thiruvannamalai tvm polur road திருவண்ணாமலை",
+    "aliases": [
+      "tiruvannamalai",
+      "thiruvannamalai",
+      "tvm",
+      "polur road",
+      "திருவண்ணாமலை"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-26"
+    ],
+    "sourceFiles": [
+      "26.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-tiruvannamalai-polur-road-no-108",
+    "branchName": "Tiruvannamalai – Polur Road (No. 108)",
+    "locality": "Tiruvannamalai",
+    "displayAddress": "எண். 108, போளூர் சாலை, திருவண்ணாமலை",
+    "displayAddressLines": [
+      "எண். 108, போளூர் சாலை,",
+      "திருவண்ணாமலை"
+    ],
+    "phone": "7010141694",
+    "searchAddress": "tiruvannamalai polur road no 108 tiruvannamalai எண் 108 போளூர் சாலை திருவண்ணாமலை 7010141694 tiruvannamalai thiruvannamalai polur road திருவண்ணாமலை",
+    "aliases": [
+      "tiruvannamalai",
+      "thiruvannamalai",
+      "polur road",
+      "திருவண்ணாமலை"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-29"
+    ],
+    "sourceFiles": [
+      "29.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-uthiramerur-periya-narasam-pettai-street",
+    "branchName": "Uthiramerur – Periya Narasam Pettai Street",
+    "locality": "Uthiramerur",
+    "displayAddress": "நெ.15C/1, பெரிய நரசம் பேட்டை தெரு, (ICICI BANK அருகில்), உத்திரமேரூர்",
+    "displayAddressLines": [
+      "நெ.15C/1, பெரிய நரசம் பேட்டை தெரு,",
+      "(ICICI BANK அருகில்), உத்திரமேரூர்"
+    ],
+    "phone": "90434 51343",
+    "searchAddress": "uthiramerur periya narasam pettai street uthiramerur நெ 15c 1 பெரிய நரசம் பேட்டை தெரு icici bank அருகில் உத்திரமேரூர் 90434 51343 uthiramerur uttiramerur periya narasam pettai icici உத்திரமேரூர்",
+    "aliases": [
+      "uthiramerur",
+      "uttiramerur",
+      "periya narasam pettai",
+      "icici",
+      "உத்திரமேரூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-33"
+    ],
+    "sourceFiles": [
+      "33.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": "Phone number identical to 32.jpg (Tiruttani) – confirm with store management."
+  },
+  {
+    "id": "br-vellore-katpadi-road-near-cmc-out-gate",
+    "branchName": "Vellore – Katpadi Road (Near CMC Out Gate)",
+    "locality": "Vellore",
+    "displayAddress": "எண்.34/24, காட்பாடி சாலை, (சிஎம்சி அவுட் கேட் அருகில்) வேலூர்",
+    "displayAddressLines": [
+      "எண்.34/24, காட்பாடி சாலை, (சிஎம்சி",
+      "அவுட் கேட் அருகில்) வேலூர்"
+    ],
+    "phone": "8754740006",
+    "searchAddress": "vellore katpadi road near cmc out gate vellore எண் 34 24 காட்பாடி சாலை சிஎம்சி அவுட் கேட் அருகில் வேலூர் 8754740006 vellore katpadi road cmc out gate வேலூர்",
+    "aliases": [
+      "vellore",
+      "katpadi road",
+      "cmc",
+      "out gate",
+      "வேலூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-34"
+    ],
+    "sourceFiles": [
+      "34.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-vellore-sathuvachari-rto-road",
+    "branchName": "Vellore – Sathuvachari (RTO Road)",
+    "locality": "Vellore",
+    "displayAddress": "எண். 262/AB, RTO சாலை, சத்துவாச்சாரி, வேலூர்",
+    "displayAddressLines": [
+      "எண். 262/AB, RTO சாலை,",
+      "சத்துவாச்சாரி, வேலூர்"
+    ],
+    "phone": "8754966941",
+    "searchAddress": "vellore sathuvachari rto road vellore எண் 262 ab rto சாலை சத்துவாச்சாரி வேலூர் 8754966941 vellore sathuvachari rto road வேலூர்",
+    "aliases": [
+      "vellore",
+      "sathuvachari",
+      "rto road",
+      "வேலூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-37"
+    ],
+    "sourceFiles": [
+      "37.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-vellore-thorapadi-periya-allapuram",
+    "branchName": "Vellore – Thorapadi (Periya Allapuram)",
+    "locality": "Vellore",
+    "displayAddress": "எண்.1, பெரிய அல்லாபுரம், தொரப்பாடி, வேலூர்",
+    "displayAddressLines": [
+      "எண்.1, பெரிய அல்லாபுரம்,",
+      "தொரப்பாடி, வேலூர்"
+    ],
+    "phone": "8754780007",
+    "searchAddress": "vellore thorapadi periya allapuram vellore எண் 1 பெரிய அல்லாபுரம் தொரப்பாடி வேலூர் 8754780007 vellore thorapadi allapuram periya allapuram வேலூர்",
+    "aliases": [
+      "vellore",
+      "thorapadi",
+      "allapuram",
+      "periya allapuram",
+      "வேலூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-35"
+    ],
+    "sourceFiles": [
+      "35.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-vellore-velapadi",
+    "branchName": "Vellore – Velapadi",
+    "locality": "Vellore",
+    "displayAddress": "38, வீரா கோயில் தெரு, வேலப்பாடி, வேலூர்",
+    "displayAddressLines": [
+      "38, வீரா கோயில் தெரு,",
+      "வேலப்பாடி, வேலூர்"
+    ],
+    "phone": "73973 62225",
+    "searchAddress": "vellore velapadi vellore 38 வீரா கோயில் தெரு வேலப்பாடி வேலூர் 73973 62225 vellore velapadi veera kovil street வேலூர்",
+    "aliases": [
+      "vellore",
+      "velapadi",
+      "veera kovil street",
+      "வேலூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-36"
+    ],
+    "sourceFiles": [
+      "36.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-vellore-virupatchipuram-arani-road",
+    "branchName": "Vellore – Virupatchipuram (Arani Road)",
+    "locality": "Vellore",
+    "displayAddress": "எண்.89A, ஆரணி சாலை, விருபாட்சிபுரம், வேலூர்",
+    "displayAddressLines": [
+      "எண்.89A, ஆரணி சாலை,",
+      "விருபாட்சிபுரம், வேலூர்"
+    ],
+    "phone": "9361553446",
+    "searchAddress": "vellore virupatchipuram arani road vellore எண் 89a ஆரணி சாலை விருபாட்சிபுரம் வேலூர் 9361553446 vellore virupatchipuram arani road வேலூர்",
+    "aliases": [
+      "vellore",
+      "virupatchipuram",
+      "arani road",
+      "வேலூர்"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-38"
+    ],
+    "sourceFiles": [
+      "38.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  },
+  {
+    "id": "br-walajapet-m-b-d-road",
+    "branchName": "Walajapet – M.B.D Road",
+    "locality": "Walajapet",
+    "displayAddress": "எண். 81, M.B.D சாலை, வாலாஜாபேட்டை",
+    "displayAddressLines": [
+      "எண். 81, M.B.D சாலை,",
+      "வாலாஜாபேட்டை"
+    ],
+    "phone": "9150363646",
+    "searchAddress": "walajapet m b d road walajapet எண் 81 m b d சாலை வாலாஜாபேட்டை 9150363646 walajapet walajah wallajah mbd road வாலாஜாபேட்டை",
+    "aliases": [
+      "walajapet",
+      "walajah",
+      "wallajah",
+      "mbd road",
+      "வாலாஜாபேட்டை"
+    ],
+    "templateIds": [
+      "tpl-dream-diwali-39"
+    ],
+    "sourceFiles": [
+      "39.jpg"
+    ],
+    "verificationStatus": "verified",
+    "verificationMethod": "Manual visual reading of printed footer; phone digits cross-checked with OCR.",
+    "notes": null
+  }
+]
